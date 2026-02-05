@@ -37,5 +37,4 @@ Installation & Running
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/markaked/dark-forest-fantasies.git
-cd dark-forest-fantasies
+https://github.com/superborsh/Dark-forest-fantasies.git
